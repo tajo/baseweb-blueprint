@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "baseweb-blueprint",
+  "alias": [
+    "baseweb-blueprint.now.sh"
+  ]
+}
